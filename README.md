@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning pyhton java script and 3d animation 
 - 💞️ I’m looking to collaborate on coding and video editing 
 - 📫 How to reach me insta  demmonics__ mail demmonics@gmail.com
-- 😄 Pronouns: why does this even exits
 - ⚡ Fun fact: Coding is like cooking 
 
 <!---
