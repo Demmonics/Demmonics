@@ -50,11 +50,18 @@
 
 </p>
 
-<p align="left">
+---
 
-<!-- Tech stack -->
+### 🌱 Learning
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/>
@@ -69,6 +76,7 @@
 <img src="https://img.shields.io/badge/FFmpeg-000000?logo=ffmpeg&logoColor=white&style=for-the-badge" alt="FFmpeg"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+</p>
 
 </p>
 
@@ -86,14 +94,14 @@
 
 ## 🚀 Projects (examples / templates) **An E-commerce Website ** — *A small e commerce website to add sell and buy products from* *
 **Tech:** Node JS for backend and frontend, React Java Script, CSS, HTML, Mongo DB for the database .
-* **What it does:** Sellers can add products upload it to the website where the consumers can browse and buy i .
-* * **Status:** Completed *
+**What it does:** Sellers can add products upload it to the website where the consumers can browse and buy i .
+**Status:** Completed 
 **Repo:** https://github.com/Demmonics/1st-project.git
 
- * **Netflix Clone** — *
- *  **Tech:** Python, Node Js, React Js, CSS, HTML,Mongo DB for the database *
- * **What it does:** An exact replica of neflix.
- * * **Status:** In progress
+**Netflix Clone** — *
+**Tech:** Python, Node Js, React Js, CSS, HTML,Mongo DB for the database 
+**What it does:** An exact replica of Neflix.
+**Status:** In progress
 
 --- 
 
@@ -103,18 +111,10 @@ I have multiple projects here is a project which was uploaded to my college's so
 
 ---
 
-## 🤝 How to collaborate
-
-* Have an idea? Open an issue in the relevant repo describing the project and your role.
-* Want to contribute to an existing project? Fork → implement → open a Pull Request with a clear description.
-* Looking for paid or featured collabs? DM me on Instagram (handle below) with a short brief and timeline.
-
----
-
 ## 📫 Contact
 
-* **Instagram:** [@demmonics\_\_](https://instagram.com/demmonics__)
-* **Email:** [demmonics@gmail.com](mailto:demmonics@gmail.com)
+**Instagram:** [@demmonics\_\_](https://instagram.com/demmonics__)
+**Email:** [demmonics@gmail.com](mailto:demmonics@gmail.com)
 
 
 ---
