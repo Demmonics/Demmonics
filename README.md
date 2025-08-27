@@ -13,8 +13,8 @@
 
 **Languages & Frameworks**
 
-* Python
-* JavaScript (ES6+)
+* HTML
+* CSS
 
 **Video Editing & 3D**
 
@@ -56,7 +56,11 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
 </p>
+
 
 ---
 
@@ -98,7 +102,15 @@
 **Status:** Completed 
 **Repo:** https://github.com/Demmonics/1st-project.git
 
-**Netflix Clone** — *
+
+<!-- Netflix Clone badge -->
+<a href="https://github.com/Demmonics/netflix-clone">
+  <img
+    src="https://img.shields.io/badge/Netflix%20Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=E50914&color=E50914"
+    alt="Netflix Clone"
+  />
+</a>
+
 **Tech:** Python, Node Js, React Js, CSS, HTML,Mongo DB for the database 
 **What it does:** An exact replica of Neflix.
 **Status:** In progress
@@ -116,37 +128,6 @@ I have multiple projects here is a project which was uploaded to my college's so
 **Instagram:** [@demmonics\_\_](https://instagram.com/demmonics__)
 **Email:** [demmonics@gmail.com](mailto:demmonics@gmail.com)
 
-
----
-
-## 🎨 Socials & Tech Stack
-
-<p align="left">
-
-<!-- Socials -->
-
-<a href="https://github.com/Demmonics"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a> <a href="https://instagram.com/demmonics__"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a> <a href="mailto:demmonics@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a> <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
-
-</p>
-
-<p align="left">
-
-<!-- Tech stack -->
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" alt="Premiere Pro"/>
-<img src="https://img.shields.io/badge/After%20Effects-313131?logo=adobeaftereffects&logoColor=white&style=for-the-badge" alt="After Effects"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?logo=davinciresolve&logoColor=white&style=for-the-badge" alt="DaVinci Resolve"/>
-<img src="https://img.shields.io/badge/FFmpeg-000000?logo=ffmpeg&logoColor=white&style=for-the-badge" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-
-</p>
 
 ---
 
