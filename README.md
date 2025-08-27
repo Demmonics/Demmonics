@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Demmonics
+# 👋 Hi, I’m Yoosha
 
 **About me**
 
@@ -136,4 +136,4 @@ I have multiple projects here is a project which was uploaded to my college's so
 
 ---
 
-## Thanks for stopping by
+
