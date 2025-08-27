@@ -13,6 +13,18 @@
 
 **Languages & Frameworks**
 
+* **HTML & CSS** — Basics / Familiar (not currently in the learning list)
+
+**Other tools & frameworks**
+
+* React
+* Node.js
+
+## 🧠 Learning (currently)
+
+* Java
+* C
+* C++
 * Python
 * JavaScript (ES6+)
 
@@ -30,98 +42,6 @@
 
 ## 🎨 Socials & Tech Stack
 
-Want it to look like the screenshot you shared? Below is a compact, colorful row-of-badges layout (social links on top, tech stack below) that mimics that style.
-
-<p align="left">
-
-<!-- Socials -->
-
-<a href="https://github.com/Demmonics"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a> <a href="https://instagram.com/demmonics__"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a> <a href="mailto:demmonics@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a> <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a> <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-
-</p>
-
-<p align="left">
-
-<!-- Tech stack -->
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" alt="Premiere Pro"/>
-<img src="https://img.shields.io/badge/After%20Effects-313131?logo=adobeaftereffects&logoColor=white&style=for-the-badge" alt="After Effects"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/>
-<img src="https://img.shields.io/badge/FFmpeg-000000?logo=ffmpeg&logoColor=white&style=for-the-badge" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-
-</p>
-
-*Tip:* these are clickable — change the links to your profiles or project pages to make the badges point to your work.
-
----
-
-## 🌱 Currently learning
-
-* Deepening Python and JavaScript fundamentals
-* 3D animation pipeline in Blender (rigging, keyframes, rendering)
-* Video editing workflows and motion graphics techniques
-
----
-
-## 🚀 Projects (examples / templates)
-
-> Add your projects below. Use this template for each repo/project so visitors know what it is at a glance.
-
-**Project Name** — *Short one-line description*
-
-* **Tech:** Python, JavaScript, Blender, etc.
-* **What it does:** A short description of the goal and features.
-* **Status:** Planning / In progress / Complete
-* **Demo / Video:** Link to demo or short reel
-* **Repo:** link to repo
-
-**Example** — *Auto-Editor* (example)
-
-* **Tech:** Python + FFmpeg
-* **What it does:** Automatically trims and stitches clips using simple heuristics.
-* **Status:** WIP
-* **Demo / Video:** link
-* **Repo:** link
-
----
-
-## 🎬 Video Editing & Animation Reel
-
-I keep a small demo reel of my video edits and 3D animations — add a link or embed your YouTube/Vimeo/drive link here.
-
-**Reel:** `https://youtube.com/your-reel` *(replace with your link)*
-
----
-
-## 🤝 How to collaborate
-
-* Have an idea? Open an issue in the relevant repo describing the project and your role.
-* Want to contribute to an existing project? Fork → implement → open a Pull Request with a clear description.
-* Looking for paid or featured collabs? DM me on Instagram (handle below) with a short brief and timeline.
-
----
-
-## 📫 Contact
-
-* **Instagram:** [@demmonics\_\_](https://instagram.com/demmonics__)
-* **Email:** [demmonics@gmail.com](mailto:demmonics@gmail.com)
-
-> Add other social links (YouTube, LinkedIn, Twitter) if you want more ways for people to reach you.
-
----
-
-## 🎨 Socials & Tech Stack
-
 <p align="left">
 
 <!-- Socials -->
@@ -134,18 +54,17 @@ I keep a small demo reel of my video edits and 3D animations — add a link or e
 
 <!-- Tech stack -->
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" alt="Premiere Pro"/>
-<img src="https://img.shields.io/badge/After%20Effects-313131?logo=adobeaftereffects&logoColor=white&style=for-the-badge" alt="After Effects"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?logo=davinciresolve&logoColor=white&style=for-the-badge" alt="DaVinci Resolve"/>
-<img src="https://img.shields.io/badge/FFmpeg-000000?logo=ffmpeg&logoColor=white&style=for-the-badge" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+<!-- Official-style SVG logos (served from simple-icons CDN). If any icon doesn't render, I can switch to a different CDN or to shields/badges. -->
+
+<a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40" style="margin:6px;"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.w3.org/html/" title="HTML5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" height="40" style="margin:6px;"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.blender.org/" title="Blender"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" alt="Blender" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.canva.com/" title="Canva"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" alt="Canva" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.blackmagicdesign.com/products/davinciresolve" title="DaVinci Resolve"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/davinciresolve.svg" alt="DaVinci Resolve" width="40" height="40" style="margin:6px;"/></a>
+
+<!-- Adobe Suite -->
+
+<a href="https://www.adobe.com/products/premiere.html" title="Premiere Pro"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobepremierepro.svg" alt="Premiere Pro" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.adobe.com/products/aftereffects.html" title="After Effects"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeaftereffects.svg" alt="After Effects" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" alt="Illustrator" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.adobe.com/products/lightroom.html" title="Lightroom"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobelightroom.svg" alt="Lightroom" width="40" height="40" style="margin:6px;"/></a> <a href="https://www.adobe.com/products/media-encoder.html" title="Media Encoder"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobemediaencoder.svg" alt="Media Encoder" width="40" height="40" style="margin:6px;"/></a>
+
+<!-- Utilities -->
+
+<a href="https://ffmpeg.org/" title="FFmpeg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ffmpeg.svg" alt="FFmpeg" width="40" height="40" style="margin:6px;"/></a> <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40" style="margin:6px;"/></a> <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40" style="margin:6px;"/></a> <a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin:6px;"/></a>
 
 </p>
 
