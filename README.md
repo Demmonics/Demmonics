@@ -1,13 +1,3 @@
-# 👋 Hi, I’m Yoosha
-
-**About me**
-
-* 👀 I’m interested in coding and video editing.
-* 🌱 I’m currently learning <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" alt="Unreal Engine"> <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender">
-* 💞️ I’m looking to collaborate on **coding** and **video editing** projects.
-* ⚡ Fun fact: "Common sense is the collection of prejudice" : Some white guy
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -29,8 +19,6 @@
 ---
 
 ## 📫 Contact
-
-* **Instagram:** [@demmonics__](https://instagram.com/demmonics__)
 * **Email:** [yooshaabbas2005@gmail.com](mailto:yooshaabbas2005@gmail.com)
 * **LinkedIn:** [Yoosha Abbas](https://www.linkedin.com/in/yoosha-abbas-ab162a357)
 
