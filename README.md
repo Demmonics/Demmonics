@@ -31,7 +31,6 @@
 
 <!-- Socials -->
 <a href="https://github.com/Demmonics"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
-<a href="https://instagram.com/demmonics__"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
 <a href="mailto:yooshaabbas2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/yoosha-abbas-ab162a357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
