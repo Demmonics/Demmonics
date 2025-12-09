@@ -19,7 +19,7 @@
 ---
 
 ## 📫 Contact
-* **Email:** [yooshaabbas2005@gmail.com](mailto:yooshaabbas2005@gmail.com)
+* **Email:** [yooshaabbas2005@gmail.com](mailto:demmonics@gmail.com)
 * **LinkedIn:** [Yoosha Abbas](https://www.linkedin.com/in/yoosha-abbas-ab162a357)
 
 
@@ -117,7 +117,6 @@ I have multiple projects here is a project which was uploaded to my college's so
 
 ## 📫 Contact
 
-**Instagram:** [@demmonics\_\_](https://instagram.com/demmonics__)
 **Email:** [demmonics@gmail.com](mailto:demmonics@gmail.com)
 
 
