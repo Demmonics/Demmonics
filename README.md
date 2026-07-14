@@ -106,11 +106,11 @@
 
 ---
 
-**New Three.js Website** — *[working title]*
+**New Three.js Website** — Skateboard demo 
 **Tech:** React, Three.js, GSAP
-**What it does:** *[add a line here once the concept/scope is locked in]*
+**What it does:** Skateboard demo
 **Status:** In progress 🔧
-**Repo:** *[add once created]*
+**Repo:** need to start 
 
 ---
 
