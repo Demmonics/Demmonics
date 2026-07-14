@@ -1,10 +1,13 @@
-
 ## 🛠️ Skills & Tools
 
 **Languages & Frameworks**
 
 * HTML
 * CSS
+* JavaScript
+* React
+* Three.js
+* GSAP
 
 **Video Editing & 3D**
 
@@ -19,9 +22,8 @@
 ---
 
 ## 📫 Contact
-* **Email:** [yooshaabbas2005@gmail.com](mailto:demmonics@gmail.com)
+* **Email:** [yooshaabbas2005@gmail.com](mailto:yooshaabbas2005@gmail.com)
 * **LinkedIn:** [Yoosha Abbas](https://www.linkedin.com/in/yoosha-abbas-ab162a357)
-
 
 ---
 
@@ -45,16 +47,17 @@
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
 </p>
 
-
 ---
 
 ### 💻 Tech Stack
 <p align="left">
 
-
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+<img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" alt="Three.js"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" alt="GSAP"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
@@ -74,10 +77,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
 </p>
 
-</p>
-
----
-
 ---
 
 ## 🌱 Currently learning
@@ -85,41 +84,54 @@
 * Deepening Python and JavaScript fundamentals
 * 3D animation pipeline in Blender (rigging, keyframes, rendering)
 * Video editing workflows and motion graphics techniques
+* Advanced Three.js scenes and WebGL shaders
 
 ---
 
-## 🚀 Projects (examples / templates) **An E-commerce Website ** — *A small e commerce website to add sell and buy products from* *
-**Tech:** Node JS for backend and frontend, React Java Script, CSS, HTML, Mongo DB for the database .
-**What it does:** Sellers can add products upload it to the website where the consumers can browse and buy i .
-**Status:** Completed 
-**Repo:** https://github.com/Demmonics/1st-project.git
+## 🚀 Projects
 
-
-<!-- Netflix Clone badge -->
-<a href="https://github.com/Demmonics/netflix-clone">
+<!-- Mac GSAP badge -->
+<a href="https://github.com/Demmonics/Apple-macbook-landing-page">
   <img
-    src="https://img.shields.io/badge/Netflix%20Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=E50914&color=E50914"
-    alt="Netflix Clone"
+    src="https://img.shields.io/badge/Apple%20MacBook%20Landing%20Page-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=000000"
+    alt="Mac GSAP"
   />
 </a>
 
-**Tech:** Python, Node Js, React Js, CSS, HTML,Mongo DB for the database 
-**What it does:** An exact replica of Neflix.
+**Mac GSAP — Apple MacBook Landing Page**
+**Tech:** React 19, Vite, Three.js, GSAP, TailwindCSS, Zustand
+**What it does:** An Apple MacBook landing page clone with interactive 3D models, scroll-driven animations, and color/size switching.
+**Status:** Completed ✅
+**Repo:** https://github.com/Demmonics/Apple-macbook-landing-page
+
+---
+
+**New Three.js Website** — *[working title]*
+**Tech:** React, Three.js, GSAP
+**What it does:** *[add a line here once the concept/scope is locked in]*
+**Status:** In progress 🔧
+**Repo:** *[add once created]*
+
+---
+
+**An E-commerce Website** — *A small e-commerce website to buy and sell products*
+**Tech:** Node.js for backend and frontend, React, JavaScript, CSS, HTML, MongoDB for the database.
+**What it does:** Sellers can add products and upload them to the website, where consumers can browse and buy.
+**Status:** Completed
+**Repo:** https://github.com/Demmonics/1st-project.git
+
+**Tech:** Python, Node.js, React, CSS, HTML, MongoDB for the database
+**What it does:** An exact replica of Netflix.
 **Status:** In progress
 
---- 
+---
 
 ## 🎬 Video Editing & Animation Reel
-I have multiple projects here is a project which was uploaded to my college's social media page — . 
+I have multiple projects — here is one that was uploaded to my college's social media page.
 **Reel:** https://www.instagram.com/reel/DDehH8aKT1K/?igsh=MXN1OXBmZGo3ZTR1ZQ==
 
 ---
 
 ## 📫 Contact
 
-**Email:** [demmonics@gmail.com](mailto:demmonics@gmail.com)
-
-
----
-
-
+**Email:** [yooshaabbas2005@gmail.com](mailto:yooshaabbas2005@gmail.com)
