@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 32" width="100%" height="32">
+  <defs>
+    <style>
+      @keyframes pulseLine {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.9; stroke-width: 1.5; }
+      }
+      @keyframes pulseDiamond {
+        0%, 100% { transform: scale(1); fill: #30363d; }
+        50% { transform: scale(1.3); fill: #f0f6fc; }
+      }
+      .line-main { stroke: #30363d; stroke-width: 1; stroke-dasharray: 4 4; }
+      .line-center { stroke: #8b949e; stroke-width: 1; animation: pulseLine 3s ease-in-out infinite; }
+      .diamond { transform-origin: center; animation: pulseDiamond 3s ease-in-out infinite; }
+      .tag { font-family: 'Courier New', Courier, monospace; font-size: 9px; fill: #8b949e; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <!-- Left dashed -->
+  <line x1="10" y1="16" x2="350" y2="16" class="line-main" />
+
+  <!-- Center tech bracket -->
+  <g transform="translate(425, 16)">
+    <line x1="-70" y1="0" x2="-25" y2="0" class="line-center" />
+    <polygon points="0,-5 5,0 0,5 -5,0" class="diamond" />
+    <circle cx="-12" cy="0" r="1.5" fill="#8b949e" />
+    <circle cx="12" cy="0" r="1.5" fill="#8b949e" />
+    <line x1="25" y1="0" x2="70" y2="0" class="line-center" />
+  </g>
+
+  <!-- Right dashed -->
+  <line x1="500" y1="16" x2="840" y2="16" class="line-main" />
+</svg>

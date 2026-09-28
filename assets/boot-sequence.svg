@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="100%" height="160">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes scanline {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(160px); }
+      }
+      @keyframes textReveal {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .term-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 6px; }
+      .term-header { fill: #161b22; }
+      .term-dots { fill: #30363d; }
+      .term-title { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #8b949e; letter-spacing: 1px; }
+      .code-line { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #e6edf3; }
+      .dim { fill: #8b949e; }
+      .accent { fill: #ffffff; font-weight: bold; }
+      .cyan-accent { fill: #58a6ff; }
+      .green-accent { fill: #3fb950; }
+      .cursor { fill: #ffffff; animation: blink 0.9s infinite; }
+      .scan { fill: none; stroke: rgba(255, 255, 255, 0.04); stroke-width: 2; animation: scanline 4s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="1" y="1" width="848" height="158" class="term-bg" />
+  
+  <!-- Window Header Bar -->
+  <rect x="2" y="2" width="846" height="26" rx="5" class="term-header" />
+  <circle cx="16" cy="15" r="4" class="term-dots" />
+  <circle cx="28" cy="15" r="4" class="term-dots" />
+  <circle cx="40" cy="15" r="4" class="term-dots" />
+  <text x="425" y="18" text-anchor="middle" class="term-title">PROJECT.EXE // TERMINAL BOOT SEQUENCE [KERNEL: 0x9F]</text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(20, 48)">
+    <text y="0" class="code-line">
+      <tspan class="dim">[0.0001] </tspan>
+      <tspan class="dim">INIT BIOS: </tspan>
+      <tspan class="accent">DEMMONICS_CORE_V4</tspan>
+      <tspan class="dim"> ... ARCH: x86_64 ... MEM_CHECK: </tspan>
+      <tspan class="green-accent">64GB OK</tspan>
+    </text>
+
+    <text y="22" class="code-line">
+      <tspan class="dim">[0.0042] </tspan>
+      <tspan class="dim">SUBSYSTEMS: </tspan>
+      <tspan class="dim">[</tspan><tspan class="accent">AI &amp; DATA SCIENCE</tspan><tspan class="dim">] [</tspan><tspan class="accent">3D_COMPOSITING</tspan><tspan class="dim">] [</tspan><tspan class="accent">FULLSTACK_KINETIC</tspan><tspan class="dim">]</tspan>
+    </text>
+
+    <text y="44" class="code-line">
+      <tspan class="dim">[0.0128] </tspan>
+      <tspan class="dim">ROLES LOADED: </tspan>
+      <tspan class="accent">Creative Head @ Students' Council</tspan>
+      <tspan class="dim"> // </tspan>
+      <tspan class="accent">Quantum ML SIG Lead</tspan>
+    </text>
+
+    <text y="66" class="code-line">
+      <tspan class="dim">[0.0210] </tspan>
+      <tspan class="dim">EXEC TARGET: </tspan>
+      <tspan class="accent">REZTOKIA_STATE</tspan>
+      <tspan class="dim"> (Creative Ecstasy through Dedication) -- STATUS: </tspan>
+      <tspan class="green-accent">ACTIVE</tspan>
+    </text>
+
+    <text y="88" class="code-line">
+      <tspan class="accent">root@demmonics:~$ </tspan>
+      <tspan class="dim">exec showcase --interactive --all-systems</tspan>
+      <rect x="425" y="76" width="8" height="13" class="cursor" />
+    </text>
+  </g>
+
+  <!-- Moving Scanline -->
+  <line x1="2" y1="0" x2="848" y2="0" class="scan" />
+</svg>

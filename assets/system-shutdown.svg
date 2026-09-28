@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 64" width="100%" height="64">
+  <defs>
+    <style>
+      @keyframes blinkLight {
+        0%, 100% { fill: #238636; }
+        50% { fill: #39d353; filter: drop-shadow(0 0 4px #39d353); }
+      }
+      .bg-rect { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 4px; }
+      .foot-text { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #8b949e; letter-spacing: 1.5px; }
+      .foot-bold { font-weight: bold; fill: #f0f6fc; }
+      .led { animation: blinkLight 1.8s infinite; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="848" height="62" class="bg-rect" />
+  
+  <g transform="translate(30, 36)">
+    <circle cx="0" cy="-4" r="4" class="led" />
+    <text x="16" y="0" class="foot-text">
+      <tspan class="foot-bold">SYSTEM: DEMMONICS_DAEMON</tspan>
+      <tspan> // KERNEL RUNNING // ALL SIGNALS NORMAL // END OF STREAM</tspan>
+    </text>
+    <text x="780" y="0" text-anchor="end" class="foot-text" fill="#8b949e">
+      <tspan>EOF [0x00]</tspan>
+    </text>
+  </g>
+</svg>
