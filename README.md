@@ -6,8 +6,11 @@
 <br/><br/>
 
 # Hi 👋, Imma Yoosha Abbas
-### ⌁ `Student & Creative Developer / Video Editor` ⌁
-*Passionate about creativity, visual arts, motion design, and code.*
+
+<!-- ==================== ANIMATED TYPING TERMINAL ==================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&lines=Student+%26+Creative+Developer;Video+Editor+%26+Motion+Compositor;3D+Artist+%26+Visual+Storyteller;Creative+Frontend+%26+Interactive+Graphics;Seeking+Creative+Ecstasy+(Reztokia)" alt="Animated Typing Terminal" />
+</p>
 
 ```text
 ┌───[ SYSTEM: DEMMONICS.SYS ]─────────────────────────────────────────┐
@@ -124,17 +127,27 @@
 
 <div align="center">
 
+  <!-- Streak Stats Animation -->
   <img src="https://streak-stats.demolab.com/?user=Demmonics&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="Demmonics GitHub Streak Stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Demmonics&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=30363d&hide_border=true" alt="Demmonics GitHub Stats" />
+  <!-- GitHub Stats Card & Languages Grid -->
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Demmonics&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=30363d&hide_border=true" alt="Demmonics GitHub Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Demmonics&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=ffffff&border_color=30363d&hide_border=true" alt="Top Languages" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Contribution Graph -->
-  <p><b>CONTRIBUTION ACTIVITY</b></p>
-  <img src="https://ghchart.rshah.org/ffffff/Demmonics" alt="Demmonics Contribution Chart" width="100%" style="max-width: 760px; filter: invert(0);" />
+  <!-- Live Animated Contribution Graph -->
+  <p><b>⚡ CONTRIBUTION WAVE & ACTIVITY ⚡</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake.svg" />
+    <img alt="Demmonics Contribution Activity" src="https://gitcolors.vercel.app/api/svg?username=Demmonics&theme=dark" width="100%" style="max-width: 760px;" />
+  </picture>
 
 </div>
 
