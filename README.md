@@ -1,137 +1,160 @@
-## 🛠️ Skills & Tools
+<div align="center">
 
-**Languages & Frameworks**
+<!-- ==================== HEADER BANNER ==================== -->
+<img src="./git.jpg" alt="PROJECT.EXE - Creation of Adam" width="100%" style="max-width: 760px;" />
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Three.js
-* GSAP
+<br/><br/>
 
-**Video Editing & 3D**
+# Hi 👋, Imma Yoosha Abbas
+### ⌁ `Student & Creative Developer / Video Editor` ⌁
+*Passionate about creativity, visual arts, motion design, and code.*
 
-* Video editing: Premiere Pro, DaVinci Resolve, Final Cut Pro, Sony Vegas, Filmora, HitFilm, iMovie, Kdenlive, OpenShot
-* Motion graphics / compositing: After Effects
-* 3D modeling & animation: Blender
+```text
+┌───[ SYSTEM: DEMMONICS.SYS ]─────────────────────────────────────────┐
+│ STATUS: ONLINE  │  LOC: MUMBAI  │  MODE: DARK MONOCHROME  │  v1.0   │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-**Photo Editing**
-
-* Photoshop, Lightroom, GIMP, Affinity Photo, Capture One, Pixelmator
-
----
-
-## 📫 Contact
-* **Email:** [yooshaabbas2005@gmail.com](mailto:yooshaabbas2005@gmail.com)
-* **LinkedIn:** [Yoosha Abbas](https://www.linkedin.com/in/yoosha-abbas-ab162a357)
-
----
-
-## 🎨 Socials & Tech Stack
-
-<p align="left">
-
-<!-- Socials -->
-<a href="https://github.com/Demmonics"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
-<a href="mailto:yooshaabbas2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/yoosha-abbas-ab162a357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/></a>
-
+<!-- ==================== SOCIAL / CONNECT BADGES ==================== -->
+<p align="center">
+  <a href="https://github.com/Demmonics" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yoosha-abbas-ab162a357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:yooshaabbas2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
+</div>
+
+<br/>
+
 ---
 
-### 🌱 Learning
+### ▓▒░ [01] ABOUT ME
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      <p>
+        <b>▸ BIO:</b><br/>
+        Student, passionate about creativity, video editing, and interactive media.
+      </p>
+      <p>
+        <b>▸ CURRENT FOCUS:</b><br/>
+        Bridging high-end post-production, motion graphics, and 3D modeling with modern creative frontend development (Three.js, React, GSAP).
+      </p>
+      <p>
+        <b>▸ TECHNICAL INTERESTS:</b><br/>
+        Visual arts, video editing & compositing, 3D animation in Blender, generative web graphics, and retro/cyber-gothic aesthetics.
+      </p>
+      <p>
+        <b>▸ THE CONCEPT OF REZTOKIA:</b><br/>
+        <i>"A state of creative ecstasy characterized by a feeling of overwhelming joy, fulfillment and pride, triggered by moments of intense satisfaction with one's creative work. The feeling is incredibly rare and can only be achieved by hard work and dedication towards a craft."</i>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./Angel%20Statue%20Grundge.jpg" alt="Cyber-Gothic Angel Statue" width="280" style="border: 1px solid #30363d; border-radius: 4px;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### ▓▒░ [02] TECH STACK & ARSENAL
+
+#### ⌨️ Languages & Frameworks
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
----
-
-### 💻 Tech Stack
+#### 🎬 Video Editing, Motion Graphics & 3D
 <p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-<img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" alt="Three.js"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" alt="GSAP"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" alt="Blender"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" alt="Premiere Pro"/>
-<img src="https://img.shields.io/badge/After%20Effects-313131?logo=adobeaftereffects&logoColor=white&style=for-the-badge" alt="After Effects"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" alt="Illustrator"/>
-<img src="https://img.shields.io/badge/Lightroom-00ADEF?logo=adobelightroom&logoColor=white&style=for-the-badge" alt="Lightroom"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?logo=davinciresolve&logoColor=white&style=for-the-badge" alt="DaVinci Resolve"/>
-<img src="https://img.shields.io/badge/Media%20Encoder-2D2D2D?logo=adobemediaencoder&logoColor=white&style=for-the-badge" alt="Media Encoder"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="Canva"/>
-<img src="https://img.shields.io/badge/FFmpeg-000000?logo=ffmpeg&logoColor=white&style=for-the-badge" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" />
+  <img src="https://img.shields.io/badge/Sony%20Vegas-000000?style=for-the-badge&logo=sony&logoColor=white" alt="Sony Vegas" />
+  <img src="https://img.shields.io/badge/Filmora-000000?style=for-the-badge&logo=wondershare&logoColor=white" alt="Filmora" />
+  <img src="https://img.shields.io/badge/HitFilm-000000?style=for-the-badge&logo=film&logoColor=white" alt="HitFilm" />
+  <img src="https://img.shields.io/badge/iMovie-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iMovie" />
+  <img src="https://img.shields.io/badge/Kdenlive-000000?style=for-the-badge&logo=kde&logoColor=white" alt="Kdenlive" />
+  <img src="https://img.shields.io/badge/OpenShot-000000?style=for-the-badge&logo=video&logoColor=white" alt="OpenShot" />
 </p>
 
----
+#### 🎨 Photo & Graphic Editing
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-000000?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/GIMP-000000?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img src="https://img.shields.io/badge/Affinity%20Photo-000000?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
+  <img src="https://img.shields.io/badge/Capture%20One-000000?style=for-the-badge&logo=camera&logoColor=white" alt="Capture One" />
+  <img src="https://img.shields.io/badge/Pixelmator-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Pixelmator" />
+</p>
 
-## 🌱 Currently learning
+#### 🌱 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-* Deepening Python and JavaScript fundamentals
-* 3D animation pipeline in Blender (rigging, keyframes, rendering)
-* Video editing workflows and motion graphics techniques
-* Advanced Three.js scenes and WebGL shaders
-
----
-
-## 🚀 Projects
-
-<!-- Mac GSAP badge -->
-<a href="https://github.com/Demmonics/Apple-macbook-landing-page">
-  <img
-    src="https://img.shields.io/badge/Apple%20MacBook%20Landing%20Page-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=000000"
-    alt="Mac GSAP"
-  />
-</a>
-
-**Mac GSAP — Apple MacBook Landing Page**
-**Tech:** React 19, Vite, Three.js, GSAP, TailwindCSS, Zustand
-**What it does:** An Apple MacBook landing page clone with interactive 3D models, scroll-driven animations, and color/size switching.
-**Status:** Completed ✅
-**Repo:** https://github.com/Demmonics/Apple-macbook-landing-page
+<br/>
 
 ---
 
-**New Three.js Website** — Skateboard demo 
-**Tech:** React, Three.js, GSAP
-**What it does:** Skateboard demo
-**Status:** In progress 🔧
-**Repo:** need to start 
+### ▓▒░ [03] GITHUB STATS & ACTIVITY
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Demmonics&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="Demmonics GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Demmonics&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=30363d&hide_border=true" alt="Demmonics GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <p><b>CONTRIBUTION ACTIVITY</b></p>
+  <img src="https://ghchart.rshah.org/ffffff/Demmonics" alt="Demmonics Contribution Chart" width="100%" style="max-width: 760px; filter: invert(0);" />
+
+</div>
+
+<br/>
 
 ---
 
-**An E-commerce Website** — *A small e-commerce website to buy and sell products*
-**Tech:** Node.js for backend and frontend, React, JavaScript, CSS, HTML, MongoDB for the database.
-**What it does:** Sellers can add products and upload them to the website, where consumers can browse and buy.
-**Status:** Completed
-**Repo:** https://github.com/Demmonics/1st-project.git
+### ▓▒░ [04] CREATIVE PHILOSOPHY
 
-**Tech:** Python, Node.js, React, CSS, HTML, MongoDB for the database
-**What it does:** An exact replica of Netflix.
-**Status:** In progress
+<div align="center">
 
----
+<img src="./seek.jpg" alt="SEEK - Creative Ecstasy" width="100%" style="max-width: 520px; border: 1px solid #30363d; border-radius: 4px;" />
 
-## 🎬 Video Editing & Animation Reel
-I have multiple projects — here is one that was uploaded to my college's social media page.
-**Reel:** https://www.instagram.com/reel/DDehH8aKT1K/?igsh=MXN1OXBmZGo3ZTR1ZQ==
+<br/><br/>
 
----
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║ "Hard work and dedication towards a craft leads to creative ecstasy."║
+║                         — PROJECT.EXE TERMINAL                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-## 📫 Contact
-
-**Email:** [yooshaabbas2005@gmail.com](mailto:yooshaabbas2005@gmail.com)
+</div>
