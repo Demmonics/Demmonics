@@ -1,6 +1,9 @@
 <div align="center">
 
-<!-- ==================== HEADER BANNER ==================== -->
+<!-- ==================== ANIMATED CYBER HEADER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:161b22&height=140&section=header&animation=fadeIn" width="100%" />
+
+<!-- ==================== TOP BANNER ==================== -->
 <img src="./git.jpg" alt="PROJECT.EXE - Creation of Adam" width="100%" style="max-width: 760px;" />
 
 <br/><br/>
@@ -9,12 +12,13 @@
 
 <!-- ==================== ANIMATED TYPING TERMINAL ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&lines=Student+%26+Creative+Developer;Video+Editor+%26+Motion+Compositor;3D+Artist+%26+Visual+Storyteller;Creative+Frontend+%26+Interactive+Graphics;Seeking+Creative+Ecstasy+(Reztokia)" alt="Animated Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+Student+%26+Creative+Developer;%3E+Video+Editor+%26+Motion+Compositor;%3E+3D+Artist+%26+Interactive+Web+Graphics;%3E+Specializing+in+Post-Production+%26+VFX;%3E+Seeking+Creative+Ecstasy+(Reztokia)" alt="Animated Typing Terminal" />
 </p>
 
 ```text
 ┌───[ SYSTEM: DEMMONICS.SYS ]─────────────────────────────────────────┐
 │ STATUS: ONLINE  │  LOC: MUMBAI  │  MODE: DARK MONOCHROME  │  v1.0   │
+│ CPU: [████████████████████░░░░] 82% │ RAM: [█████████████████████░] 94%│
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -127,27 +131,37 @@
 
 <div align="center">
 
-  <!-- Streak Stats Animation -->
+  <!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
+  <p><b>🐍 ANIMATED CONTRIBUTION SNAKE 🐍</b></p>
+  <img src="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake-dark.svg" alt="Demmonics Contribution Snake" width="100%" style="max-width: 800px;" />
+
+  <br/><br/>
+
+  <!-- ==================== CONTRIBUTION HEATMAP CALENDAR ==================== -->
+  <p><b>📅 CONTRIBUTION HEATMAP CALENDAR 📅</b></p>
+  <div style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
+    <img src="https://ghchart.rshah.org/39d353/Demmonics" alt="Demmonics GitHub Contribution Heatmap" width="100%" style="max-width: 780px;" />
+  </div>
+
+  <br/><br/>
+
+  <!-- ==================== ANIMATED PROFILE SUMMARY & ACTIVITY ==================== -->
+  <p><b>📈 DETAILED ACTIVITY SUMMARY & TRENDS 📈</b></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demmonics&theme=github_dark" alt="Demmonics Activity Curve" width="100%" style="max-width: 650px;" />
+
+  <br/><br/>
+
+  <!-- ==================== STREAK STATS ANIMATION ==================== -->
   <img src="https://streak-stats.demolab.com/?user=Demmonics&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="Demmonics GitHub Streak Stats" />
 
   <br/><br/>
 
-  <!-- GitHub Stats Card & Languages Grid -->
+  <!-- ==================== GITHUB STATS & LANGUAGES ==================== -->
   <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Demmonics&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=30363d&hide_border=true" alt="Demmonics GitHub Stats" />
     &nbsp;
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Demmonics&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=ffffff&border_color=30363d&hide_border=true" alt="Top Languages" />
   </p>
-
-  <br/>
-
-  <!-- Live Animated Contribution Graph -->
-  <p><b>⚡ CONTRIBUTION WAVE & ACTIVITY ⚡</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake.svg" />
-    <img alt="Demmonics Contribution Activity" src="https://gitcolors.vercel.app/api/svg?username=Demmonics&theme=dark" width="100%" style="max-width: 760px;" />
-  </picture>
 
 </div>
 
@@ -169,5 +183,8 @@
 ║                         — PROJECT.EXE TERMINAL                       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+<!-- ==================== ANIMATED FOOTER WAVE ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:000000&height=120&section=footer" width="100%" />
 
 </div>
