@@ -133,21 +133,13 @@
 
   <!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
   <p><b>🐍 ANIMATED CONTRIBUTION SNAKE 🐍</b></p>
-  <img src="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake-dark.svg" alt="Demmonics Contribution Snake" width="100%" style="max-width: 800px;" />
+  <img src="https://raw.githubusercontent.com/Demmonics/Demmonics/output/github-contribution-grid-snake-dark.svg" alt="Demmonics Contribution Snake" width="100%" style="max-width: 820px;" />
 
   <br/><br/>
 
-  <!-- ==================== CONTRIBUTION HEATMAP CALENDAR ==================== -->
-  <p><b>📅 CONTRIBUTION HEATMAP CALENDAR 📅</b></p>
-  <div style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
-    <img src="https://ghchart.rshah.org/39d353/Demmonics" alt="Demmonics GitHub Contribution Heatmap" width="100%" style="max-width: 780px;" />
-  </div>
-
-  <br/><br/>
-
-  <!-- ==================== ANIMATED PROFILE SUMMARY & ACTIVITY ==================== -->
-  <p><b>📈 DETAILED ACTIVITY SUMMARY & TRENDS 📈</b></p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demmonics&theme=github_dark" alt="Demmonics Activity Curve" width="100%" style="max-width: 650px;" />
+  <!-- ==================== 2026 CONTRIBUTION HEATMAP ==================== -->
+  <p><b>📅 2026 CONTRIBUTION HEATMAP CALENDAR 📅</b></p>
+  <img src="./contribution-heatmap-2026.svg" alt="Demmonics 2026 Contribution Heatmap" width="100%" style="max-width: 820px;" />
 
   <br/><br/>
 
