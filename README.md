@@ -18,19 +18,19 @@
 <!-- ==================== SOCIAL / CONNECT BADGES ==================== -->
 <p align="center">
   <a href="https://github.com/Demmonics" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/yoosha-abbas-ab162a357" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:yooshaabbas2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -77,43 +77,43 @@
 
 #### ⌨️ Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
 #### 🎬 Video Editing, Motion Graphics & 3D
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=00005B" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=00005B" alt="After Effects" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-CC2229?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Final%20Cut%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" />
   <img src="https://img.shields.io/badge/Sony%20Vegas-000000?style=for-the-badge&logo=sony&logoColor=white" alt="Sony Vegas" />
-  <img src="https://img.shields.io/badge/Filmora-000000?style=for-the-badge&logo=wondershare&logoColor=white" alt="Filmora" />
-  <img src="https://img.shields.io/badge/HitFilm-000000?style=for-the-badge&logo=film&logoColor=white" alt="HitFilm" />
-  <img src="https://img.shields.io/badge/iMovie-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iMovie" />
-  <img src="https://img.shields.io/badge/Kdenlive-000000?style=for-the-badge&logo=kde&logoColor=white" alt="Kdenlive" />
-  <img src="https://img.shields.io/badge/OpenShot-000000?style=for-the-badge&logo=video&logoColor=white" alt="OpenShot" />
+  <img src="https://img.shields.io/badge/Filmora-0084FF?style=for-the-badge&logo=wondershare&logoColor=white" alt="Filmora" />
+  <img src="https://img.shields.io/badge/HitFilm-00D2C4?style=for-the-badge&logo=film&logoColor=white" alt="HitFilm" />
+  <img src="https://img.shields.io/badge/iMovie-9933CC?style=for-the-badge&logo=apple&logoColor=white" alt="iMovie" />
+  <img src="https://img.shields.io/badge/Kdenlive-527BB3?style=for-the-badge&logo=kde&logoColor=white" alt="Kdenlive" />
+  <img src="https://img.shields.io/badge/OpenShot-1B70B5?style=for-the-badge&logo=video&logoColor=white" alt="OpenShot" />
 </p>
 
 #### 🎨 Photo & Graphic Editing
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-000000?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/GIMP-000000?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
-  <img src="https://img.shields.io/badge/Affinity%20Photo-000000?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
-  <img src="https://img.shields.io/badge/Capture%20One-000000?style=for-the-badge&logo=camera&logoColor=white" alt="Capture One" />
-  <img src="https://img.shields.io/badge/Pixelmator-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Pixelmator" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=001E36" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=001E36" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img src="https://img.shields.io/badge/Affinity%20Photo-221D38?style=for-the-badge&logo=affinityphoto&logoColor=00B0FF" alt="Affinity Photo" />
+  <img src="https://img.shields.io/badge/Capture%20One-231F20?style=for-the-badge&logo=camera&logoColor=white" alt="Capture One" />
+  <img src="https://img.shields.io/badge/Pixelmator-E44738?style=for-the-badge&logo=apple&logoColor=white" alt="Pixelmator" />
 </p>
 
 #### 🌱 Currently Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 <br/>
