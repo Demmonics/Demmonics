@@ -309,6 +309,12 @@
 
   <br/><br/>
 
+  <!-- ==================== 3D ISOMETRIC CONTRIBUTION GRAPH ==================== -->
+  <p><b>🧊 ISOMETRIC CONTRIBUTION TOPOGRAPHY 🧊</b></p>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Demmonics 3D Isometric Contribution Graph" width="100%" style="max-width: 820px;" />
+
+  <br/><br/>
+
   <!-- ==================== STREAK STATS ==================== -->
   <img src="https://streak-stats.demolab.com/?user=Demmonics&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="Demmonics GitHub Streak Stats" />
 
