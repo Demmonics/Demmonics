@@ -19,7 +19,7 @@
 
   <!-- Title & Total -->
   <text x="24" y="24" class="title">2026 Contribution Activity</text>
-  <text x="793" y="24" text-anchor="end" class="subtitle">428 contributions in 2026</text>
+  <text x="793" y="24" text-anchor="end" class="subtitle">429 contributions in 2026</text>
 
   <!-- Month Labels -->
   <text x="45" y="40" class="month-label">Jan</text><text x="115" y="40" class="month-label">Feb</text><text x="171" y="40" class="month-label">Mar</text><text x="227" y="40" class="month-label">Apr</text><text x="283" y="40" class="month-label">May</text><text x="353" y="40" class="month-label">Jun</text><text x="409" y="40" class="month-label">Jul</text><text x="465" y="40" class="month-label">Aug</text><text x="535" y="40" class="month-label">Sep</text><text x="591" y="40" class="month-label">Oct</text><text x="661" y="40" class="month-label">Nov</text><text x="717" y="40" class="month-label">Dec</text>
