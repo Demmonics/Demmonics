@@ -13,10 +13,10 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,3 +30,4 @@ jobs:
             git pull --rebase origin main
             git push origin main
           fi
+
