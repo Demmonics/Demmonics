@@ -303,11 +303,18 @@
 
 <div align="center">
 
+  <!-- ==================== 2026 CONTRIBUTION HEATMAP ==================== -->
+  <p><b>📅 2026 CONTRIBUTION HEATMAP CALENDAR 📅</b></p>
+  <img src="./contribution-heatmap-2026.svg" alt="Demmonics 2026 Contribution Heatmap" width="100%" style="max-width: 820px;" />
+
+  <br/><br/>
+
   <!-- ==================== UNIFIED 2026 ANIMATED CONTRIBUTION SNAKE ==================== -->
-  <p><b>🐍 2026 CONTRIBUTION ACTIVITY &amp; SNAKE (JAN – SEP) 🐍</b></p>
+  <p><b>🐍 2026 ANIMATED CONTRIBUTION SNAKE 🐍</b></p>
   <img src="./github-contribution-grid-snake-2026.svg" alt="Demmonics 2026 Contribution Activity Snake" width="100%" style="max-width: 820px;" />
 
   <br/><br/>
+
 
   <!-- ==================== 3D ISOMETRIC CONTRIBUTION GRAPH ==================== -->
   <p><b>🧊 ISOMETRIC CONTRIBUTION TOPOGRAPHY 🧊</b></p>
